@@ -1,10 +1,21 @@
-# Marketing-Campaign-Analysis
+# Marketing-Campaign-Performance-Analysis
 An interactive **Business Intelligence dashboard** developed using **Power BI** to monitor and analyze digital marketing campaign performance through key performance indicators (KPIs), campaign trends, lead generation metrics, budget utilization, and conversion analysis.
 
 ## Project Overview
 
 The **Marketing Campaign Performance Analytics Dashboard** provides a centralized view of marketing campaign performance by transforming raw campaign data into meaningful business insights. It enables marketing teams and decision-makers to monitor campaign effectiveness, optimize budget allocation, track lead generation, and evaluate overall marketing performance through interactive visualizations.
 The dashboard is designed with dynamic filters, KPI cards, and trend analysis to support faster, data-driven decision-making.
+
+## Project Summary
+
+| Category | Details |
+
+| Domain | Digital Marketing Analytics |
+| Tool | Microsoft Power BI |
+| Data Source | Excel |
+| Dashboard Type | Business Intelligence |
+| KPIs | 8 |
+| Interactive Filters | Date, Platform, KPI Selector |
 
 ## Business Problem
 
@@ -21,7 +32,7 @@ This dashboard addresses these challenges by consolidating campaign data into a 
 - Identify top-performing geographical regions.
 - Enable data-driven marketing decisions through interactive visualizations.
 
-# 📷 Dashboard Preview
+# Dashboard Preview
 
 ## Executive Dashboard
 
@@ -43,10 +54,94 @@ This dashboard addresses these challenges by consolidating campaign data into a 
 
 ![Data Model](Images/data-model.png)
 
-## Tools & Technologies
 
-- Microsoft Power BI
-- Power Query
-- DAX (Data Analysis Expressions)
-- Microsoft Excel
-- Digital Marketing Analytics
+
+# Tools & Technologies
+
+| Category | Technologies |
+
+| Business Intelligence | Power BI |
+| Data Transformation | Power Query |
+| Data Modeling | Star Schema |
+| Data Analysis | DAX |
+| Data Source | Microsoft Excel |
+| Visualization | KPI Cards, Line Charts, Bar Charts, Slicers |
+| Domain | Digital Marketing Analytics |
+
+#  Dashboard Features
+
+- Interactive KPI Cards
+- Dynamic KPI Selector
+- Date Range Filtering
+- Platform-wise Analysis (Google & Facebook)
+- Campaign Performance Tracking
+- Marketing Spend Analysis
+- Daily Trend Analysis
+- Location-wise Lead Analysis
+- Interactive Slicers
+- Responsive Dashboard Design
+
+
+#  Key Performance Indicators
+
+- Amount Spent
+- Leads Generated
+- Impressions
+- Clicks
+- Cost Per Lead (CPL)
+- Cost Per Click (CPC)
+- Click Through Rate (CTR)
+- Conversion Rate
+
+
+#  Business Insights
+
+- Facebook generated the highest share of marketing leads.
+- Certain locations consistently outperformed others in lead generation.
+- Campaign performance trends helped identify periods of higher engagement.
+- Interactive filtering enables quick comparison across platforms and time periods.
+- KPI tracking supports marketing budget optimization and campaign performance evaluation.
+
+  ---
+
+#  Repository Structure
+
+Marketing-Campaign-Performance-Analytics-Dashboard
+
+├── Dashboard
+│   └── Marketing Campaign Performance Analytics.pbix
+│
+├── Dataset
+│   └── Marketing_Campaign_Data.xlsx
+│
+├── Images
+│   ├── Dashboard-Overview.png
+│   ├── KPI-Cards.png
+│   ├── Trend-Analysis.png
+│   ├── Campaign-Analysis.png
+│   └── Data-Model.png
+│
+└── README.md
+
+---
+
+# Future Enhancements
+
+- Campaign ROI Analysis
+- Drill-through Reports
+- Custom Tooltips
+- Executive Insights Panel
+- Automated Data Refresh
+- Predictive Marketing Analytics
+
+  ---
+
+#  Author
+
+**Shruti S. Katti**
+
+📧 kattishruti24@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/shruti-katti-1bb962248
+
+💻 GitHub: https://github.com/shrutikatti24
