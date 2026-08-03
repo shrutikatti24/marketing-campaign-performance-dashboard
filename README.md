@@ -124,11 +124,11 @@ This dashboard addresses these challenges by consolidating campaign data into a 
 - KPI tracking supports marketing budget optimization and campaign performance evaluation.
 
   ---
+## 📂 Repository Structure
 
-#  Repository Structure
-
-Marketing-Campaign-Performance-Analytics-Dashboard
-
+```text
+marketing-campaign-performance-dashboard
+│
 ├── Dashboard
 │   └── Marketing Campaign Performance Analytics.pbix
 │
@@ -142,8 +142,11 @@ Marketing-Campaign-Performance-Analytics-Dashboard
 │   ├── Campaign-Analysis.png
 │   └── Data-Model.png
 │
+├── Documentation
+│   └── Business-Insights.pdf
+│
 └── README.md
-
+```
 ---
 
 # Future Enhancements
