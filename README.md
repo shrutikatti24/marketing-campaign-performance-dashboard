@@ -3,8 +3,8 @@
 ![DAX](https://img.shields.io/badge/DAX-512BD4?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Marketing Analytics](https://img.shields.io/badge/Marketing-Analytics-blue?style=for-the-badge)
-
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-0A66C2?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge)
 An interactive **Business Intelligence dashboard** developed using **Power BI** to monitor and analyze digital marketing campaign performance through key performance indicators (KPIs), campaign trends, lead generation metrics, budget utilization, and conversion analysis.
 
 ## Project Overview
