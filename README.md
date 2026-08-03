@@ -6,7 +6,7 @@
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-0A66C2?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge)
 
-An interactive **Business Intelligence dashboard** developed using **Power BI** to monitor and analyze digital marketing campaign performance through key performance indicators (KPIs), campaign trends, lead generation metrics, budget utilization, and conversion analysis.
+Developed an interactive Business Intelligence dashboard using Power BI to analyze digital marketing campaign performance through KPIs, campaign trends, lead generation, budget utilization, and conversion metrics. The dashboard enables stakeholders to monitor performance, evaluate marketing effectiveness, and support data-driven decision-making.
 
 ## Project Overview
 
@@ -15,14 +15,27 @@ The dashboard is designed with dynamic filters, KPI cards, and trend analysis to
 
 ## Project Summary
 
-| Category | Details |
+| Attribute | Details |
+|-----------|----------|
+| **Domain** | Digital Marketing Analytics |
+| **Project Type** | Business Intelligence Dashboard |
+| **Tools** | Power BI, DAX, Power Query, Excel |
+| **Data Source** | Marketing Campaign Dataset |
+| **KPIs** | Spend, Leads, Impressions, Clicks, CPL, CPC, CTR, Conversion Rate |
+| **Interactive Features** | KPI Selector, Date Filter, Platform Filter, Dynamic Visuals |
 
-| Domain | Digital Marketing Analytics |
-| Tool | Microsoft Power BI |
-| Data Source | Excel |
-| Dashboard Type | Business Intelligence |
-| KPIs | 8 |
-| Interactive Filters | Date, Platform, KPI Selector |
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Business Problem](#business-problem)
+- [Objectives](#objectives)
+- [Dashboard Preview](#dashboard-preview)
+- [Tools & Technologies](#tools--technologies)
+- [Dashboard Features](#dashboard-features)
+- [Key Performance Indicators](#key-performance-indicators)
+- [Business Insights](#business-insights)
+- [Repository Structure](#repository-structure)
+- [Future Enhancements](#future-enhancements)
 
 ## Business Problem
 
@@ -91,15 +104,16 @@ This dashboard addresses these challenges by consolidating campaign data into a 
 
 #  Key Performance Indicators
 
-- Amount Spent
-- Leads Generated
-- Impressions
-- Clicks
-- Cost Per Lead (CPL)
-- Cost Per Click (CPC)
-- Click Through Rate (CTR)
-- Conversion Rate
-
+| KPI | Description |
+|------|-------------|
+| Amount Spent | Total marketing expenditure across campaigns |
+| Leads | Total leads generated |
+| Impressions | Total ad impressions |
+| Clicks | Total user clicks |
+| CPL | Cost incurred to acquire one lead |
+| CPC | Cost incurred per click |
+| CTR | Percentage of clicks received per impression |
+| Conversion Rate | Percentage of leads converted |
 
 #  Business Insights
 
